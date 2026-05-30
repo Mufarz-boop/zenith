@@ -1,0 +1,445 @@
+Setiap Pathway memiliki Sequence nya.
+
+ERROR PATHWAY
+Above the Sequence: 
+Sequence 0: Error
+Sequence 1: System Exception
+Sequence 2: Anomaly Carrier
+Sequence 3: Concept Thief
+Sequence 4: System Intruder
+Sequence 5: Rule Breaker
+Sequence 6: Shadow Thief
+Sequence 7: Trickster
+Sequence 8: Con Artist
+Sequence 9: Pickpocket
+
+VISIONARY PATHWAY
+Above the Sequence: 
+Sequence 0: Visionary
+Sequence 1: Worl Perceiver
+Sequence 2: Thought Sovereign
+Sequence 3: Reality Interpreter
+Sequence 4: Mind Shaper
+Sequence 5: Dream Weaver
+Sequence 6: Dream Walker
+Sequence 7: Hypnotist
+Sequence 8: Psychologist
+Sequence 9: Observer
+
+SUN PATHWAY
+Above the Sequence: 
+Sequence 0: Sun
+Sequence 1: Divine Sun Vessel
+Sequence 2: Sun Archon
+Sequence 3: Radiant Apostle
+Sequence 4: Light Judge
+Sequence 5: Dawn Warrior
+Sequence 6: Purification Healer
+Sequence 7: Light Priest
+Sequence 8: Ritual Practitioner
+Sequence 9: Acolyte
+
+TYRANT PATHWAY
+Above the Sequence: 
+Sequence 0: Tyrant
+Sequence 1: Leviathan Crown
+Sequence 2: Sky Devourer
+Sequence 3: Ocean Sovereign
+Sequence 4: Hurricane Warlord
+Sequence 5: Tempest Commander
+Sequence 6: Thunder Adept
+Sequence 7: Sea Warrior
+Sequence 8: Strom Apprentice
+Sequence 9: Sailor
+
+DARKNESS PATHWAY
+Above the Sequence: 
+Sequence 0: Darkness
+Sequence 1: Eternal Night
+Sequence 2: Void Herald
+Sequence 3: Dark Apostle
+Sequence 4: Abyssal Shade
+Sequence 5: Eclipse Agent
+Sequence 6: Silent Shadow
+Sequence 7: Veil Stalker
+Sequence 8: Shadow Apprentice
+Sequence 9: Night Watcher
+
+DEATH PATHWAY
+Above the Sequence: 
+Sequence 0: Death
+Sequence 1: Final Reaper
+Sequence 2: Necro Sovereign
+Sequence 3: Soul Harvester
+Sequence 4: Death Speaker
+Sequence 5: Undead Commander
+Sequence 6: Spirit Binder
+Sequence 7: Reaper Initiate
+Sequence 8: Soul Listener
+Sequence 9: Grave Keeper
+
+DEMONESS PATHWAY
+Above the Sequence: 
+Sequence 0: Demoness
+Sequence 1: Crimson Calamity
+Sequence 2: Disaster Empress
+Sequence 3: Scarlet Apostle
+Sequence 4: Calamity Maiden
+Sequence 5: Emotion Weaver
+Sequence 6: Plague Witch
+Sequence 7: Pain Bringer
+Sequence 8: Temptress
+Sequence 9: Courtesan
+
+PARAGON PATHWAY
+Above the Sequence: 
+Sequence 0: Paragon
+Sequence 1: Divine Engineer
+Sequence 2: Reality Constructor
+Sequence 3: System Smith
+Sequence 4: Law Crafter
+Sequence 5: Structure Architect
+Sequence 6: Rune Engineer
+Sequence 7: Builder
+Sequence 8: Mechanic
+Sequence 9: Artisan
+
+MOTHER PATHWAY
+Above the Sequence: 
+Sequence 0: Mother
+Sequence 1: Origin Empress
+Sequence 2: World Mother
+Sequence 3: Genesis Apostle
+Sequence 4: Life Weaver
+Sequence 5: Nature Binder
+Sequence 6: Fertility Priest
+Sequence 7: Life Apprentice
+Sequence 8: Herbalist
+Sequence 9: Gardener
+
+MOON PATHWAY
+Above the Sequence: 
+Sequence 0: Moon
+Sequence 1: Lunar Sovereign
+Sequence 2: Silver Reflection
+Sequence 3: Moon Siren
+Sequence 4: Dream Weaver
+Sequence 5: Lunar Priestess
+Sequence 6: Night Dancer
+Sequence 7: Perfumer
+Sequence 8: Midwife
+Sequence 9: Night Nurse
+
+ABYSS PATHWAY
+Above the Sequence: 
+Sequence 0: Abyss
+Sequence 1: Primordial Depth
+Sequence 2: Abyss Herald
+Sequence 3: Void-Touched Entity
+Sequence 4: Deep Dweller
+Sequence 5: Abyssal Cultist
+Sequence 6: Occult Traint Bearer
+Sequence 7: Corrupted Adept
+Sequence 8: Sewer Worker
+Sequence 9: Grave Digger
+
+DESTRUCTION PATHWAY
+Above the Sequence: 
+Sequence 0: Destruction
+Sequence 1: Embodiment of Ruin
+Sequence 2: Cataclysmic
+Sequence 3: Annihilation Agent
+Sequence 4: Ravager of Lands
+Sequence 5: Berserker
+Sequence 6: Demolition Expert
+Sequence 7: Arsonist
+Sequence 8: Saboteur
+Sequence 9: Miner
+
+MASQUERADE PATHWAY
+Above the Sequence: 
+Sequence 0: Masquerade
+Sequence 1: The Many Faces
+Sequence 2: Reality Impersonator
+Sequence 3: Role Apostle
+Sequence 4: Face Shifter
+Sequence 5: Illusion Actor
+Sequence 6: False Persona
+Sequence 7: Identity Thief
+Sequence 8: Disguiser
+Sequence 9: Masked Actor
+
+PRESERVATION PATHWAY
+Above the Sequence: 
+Sequence 0: Preservation
+Sequence 1: Aegis
+Sequence 2: Bastion
+Sequence 3: Guardian
+Sequence 4: Warden
+Sequence 5: Shield
+Sequence 6: Defender
+Sequence 7: Sentinel
+Sequence 8: Watcher
+Sequence 9: Guard
+
+HUNT PATHWAY
+Above the Sequence: 
+Sequence 0: Hunt
+Sequence 1: Slayer
+Sequence 2: Apex
+Sequence 3: Stalker
+Sequence 4: Predator
+Sequence 5: Assassin
+Sequence 6: Ranger
+Sequence 7: Hunter
+Sequence 8: Tracker
+Sequence 9: Scout
+
+ERUDITION PATHWAY
+Above the Sequence: 
+Sequence 0: Erudition
+Sequence 1: Omniscient
+Sequence 2: Sage
+Sequence 3: Theorist
+Sequence 4: Analyst
+Sequence 5: Scholar
+Sequence 6: Librarian
+Sequence 7: Scribe
+Sequence 8: Tutor
+Sequence 9: Student
+
+HARMONY PATHWAY
+Above the Sequence: 
+Sequence 0: Harmony
+Sequence 1: Chorus
+Sequence 2: Unity
+Sequence 3: Sync
+Sequence 4: Resonant
+Sequence 5: Harmonist
+Sequence 6: Conductor
+Sequence 7: Coordinator
+Sequence 8: Diplomat
+Sequence 9: Mediator
+
+NIHILITY PATHWAY
+Above the Sequence: 
+Sequence 0: Nihility
+Sequence 1: Erasure
+Sequence 2: Void
+Sequence 3: Null
+Sequence 4: Wraith
+Sequence 5: Fade
+Sequence 6: Hollow
+Sequence 7: Orphan
+Sequence 8: Wanderer
+Sequence 9: Beggar
+
+ABUNDANCE PATHWAY
+Above the Sequence: 
+Sequence 0: Abundance
+Sequence 1: Bloom
+Sequence 2: Sovereign
+Sequence 3: Alchemist
+Sequence 4: Patron
+Sequence 5: Merchant
+Sequence 6: Gardener
+Sequence 7: Healer
+Sequence 8: Herbalist
+Sequence 9: Farmer
+
+REMEMBRANCE PATHWAY
+Above the Sequence: 
+Sequence 0: Remembrance
+Sequence 1: Eternal Chronicle Lord
+Sequence 2: Akashic Seeker
+Sequence 3: Memory Dominion
+Sequence 4: Chronicle Weaver
+Sequence 5: Soul Archivist
+Sequence 6: Remnant Reader
+Sequence 7: Memory Keeper
+Sequence 8: Memorist
+Sequence 9: Recorder
+
+ELATION PATHWAY
+Above the Sequence: 
+Sequence 0: Elation
+Sequence 1: Catalyst
+Sequence 2: Idol
+Sequence 3: Siren
+Sequence 4: Maestro
+Sequence 5: Jester
+Sequence 6: Dancer
+Sequence 7: Perfomer
+Sequence 8: Entertainer
+Sequence 9: Clerk
+
+PROPAGATION PATHWAY
+Above the Sequence: 
+Sequence 0: Propagation
+Sequence 1: Endless Swarm
+Sequence 2: Collective Mind
+Sequence 3: Swarm Apostle
+Sequence 4: Colony Master
+Sequence 5: Hive Controller
+Sequence 6: Swarm Initiate
+Sequence 7: Infector
+Sequence 8: Reproducer
+Sequence 9: Breeder
+
+VORACITY PATHWAY
+Above the Sequence: 
+Sequence 0: Voracity
+Sequence 1: Hunger
+Sequence 2: Maw
+Sequence 3: Devourer
+Sequence 4: Predator
+Sequence 5: Hunter
+Sequence 6: Butcher
+Sequence 7: Glutton
+Sequence 8: Cook
+Sequence 9: Laborer
+
+ENIGMATA PATHWAY
+Above the Sequence: 
+Sequence 0: Enigmata
+Sequence 1: Absolute Mystery
+Sequence 2: Unknown Decoder
+Sequence 3: Chaos Analyst
+Sequence 4: Hidden Truth Finder
+Sequence 5: Mystery Hunter
+Sequence 6: Investigator
+Sequence 7: Puzzle Solver
+Sequence 8: Seeker
+Sequence 9: Curious One
+
+BEAUTY PATHWAY
+Above the Sequence: 
+Sequence 0: Beauty
+Sequence 1: Aphrodite
+Sequence 2: Siren
+Sequence 3: Muse
+Sequence 4: Idol
+Sequence 5: Courtesan
+Sequence 6: Painter
+Sequence 7: Artisan
+Sequence 8: Dancer
+Sequence 9: Model
+
+PERMANENCE PATHWAY
+Above the Sequence: 
+Sequence 0: Permanence
+Sequence 1: Stillness
+Sequence 2: Steadfast
+Sequence 3: Keeper
+Sequence 4: Anchor
+Sequence 5: Sentinel
+Sequence 6: Builder
+Sequence 7: Watchman
+Sequence 8: Archivist
+Sequence 9: Scribe
+
+FORTUNE PATHWAY
+Above the Sequence: 
+Sequence 0: Fortune
+Sequence 1: Frotune Sovereign 
+Sequence 2: Destiny Breaker
+Sequence 3: Probability God
+Sequence 4: Change Controller
+Sequence 5: Fate Twister
+Sequence 6: Luck Manipulator
+Sequence 7: Probability User
+Sequence 8: Gambler
+Sequence 9: Lucky One
+
+READER PATHWAY
+Above the Sequence: 
+Sequence 0: Reader
+Sequence 1: Storykeeper
+Sequence 2: Reality Reader
+Sequence 3: Fate Reader
+Sequence 4: Narrative Observer
+Sequence 5: Truth Reader
+Sequence 6: Interpreter
+Sequence 7: Analyst
+Sequence 8: Bookworm
+Sequence 9: Literate
+
+AUTHOR PATHWAY
+Above the Sequence: 
+Sequence 0: Author
+Sequence 1: Script Sovereign
+Sequence 2: Reality Editor
+Sequence 3: World Author
+Sequence 4: Fate Writer
+Sequence 5: Plot Weaver
+Sequence 6: Narrative Shaper
+Sequence 7: Chronicler
+Sequence 8: Storyteller
+Sequence 9: Scribe
+
+FINALITY PATHWAY
+Above the Sequence: 
+Sequence 0: Finality
+Sequence 1: Absolute Closure
+Sequence 2: Ending Sovereign
+Sequence 3: Null Executor
+Sequence 4: Final Judge
+Sequence 5: Termination Weaver
+Sequence 6: Endbringer
+Sequence 7: Cycle Breaker
+Sequence 8: Closure Agent
+Sequence 9: Terminator
+
+FAIRYTALE PATHWAY
+Above the Sequence: 
+Sequence 0: Fairytale
+Sequence 1: Living Myth
+Sequence 2: Tale Embodiment
+Sequence 3: Myth Walker
+Sequence 4: Legend Weaver
+Sequence 5: Fairy Narrator
+Sequence 6: Story Binder
+Sequence 7: Myth Keeper
+Sequence 8: Tale Listener
+Sequence 9: Story Lover
+
+FICTION PATHWAY
+Above the Sequence: 
+Sequence 0: Fiction
+Sequence 1: Absolute Story
+Sequence 2: Fiction Sovereign
+Sequence 3: Reality Fictionalizer
+Sequence 4: Meta Narrator
+Sequence 5: Fiction Weaver
+Sequence 6: Reality Scriptor
+Sequence 7: World Builder
+Sequence 8: Fiction Writer
+Sequence 9: Novelist
+
+Struktur Sequence Pada setiap Pathway
+Sequence 9: Low Sequence
+Sequence 8: Low Sequence
+Sequence 7: Mid Sequence
+Sequence 6: Mid Sequence
+Sequence 5: Mid Sequence
+Sequence 4: High Sequence (Demigod) = Saint
+Sequence 3: High Sequence (Demigod) = Saint
+Sequence 2: High Sequence (Demigod) = Angel
+Sequence 1: High Sequence (Demigod) = Angel
+Sequence 0: True God
+Above the Sequence: Great Old One
+
+Daftar Kelompok Pathway
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+7. 
+8. 
+9. 
+10. 
+11. 
+12. 
+13. 

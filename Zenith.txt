@@ -1,0 +1,569 @@
+The Author's Imagination: Zenith WORLD Chronicles
+
+Sinopsis
+Tiga belas ribu tahun yang lalu, 
+sebelas pahlawan legendaris mengalahkan Raja Amarah dan mengakhiri zaman kehancuran.
+Sejak saat itu, Dunia Zenith berkembang di bawah kekuatan para dewa, pathways, para kaisar, dan peradaban kuno.
+Perdamaian menjadi sejarah.
+Sejarah menjadi kebenaran.
+Dan kebenaran menjadi hukum.
+Namun di dunia yang diatur oleh Pathways yang misterius, bahkan realitas itu sendiri tidak bisa sepenuhnya dipercaya.
+Di kedalaman sudut-sudut eksistensi yang terlupakan, 
+catatan terlarang mulai muncul—catatan yang menyebut sebuah entitas tak dikenal yang hanya disebut sebagai “Sang Penulis.”
+Sebuah makhluk yang dikatakan berada di atas para dewa, di atas takdir, dan di atas hukum dunia itu sendiri.
+Saat alam-alam kuno mulai terbangun dan keseimbangan Dunia Zenith perlahan runtuh, 
+berbagai faksi mulai mencari kebenaran di balik Pathways, asal mula eksistensi, 
+dan kemungkinan mengerikan bahwa seluruh dunia mereka hanyalah sebuah kisah yang lahir dari imajinasi Sang Penulis.
+Dan di suatu tempat di luar batas realitas…
+sesuatu mulai menulis ulang akhir cerita.
+
+ZENITH WORLD
+Marchi Calendar [03 Juni 1874 MI]
+
+List of Months, Days, and Times of the Zenith World:
+1. January [30 Days]
+2. February [30 Days]
+3. March [30 Days]
+4. April [30 Days]
+5. May [30 Days]
+6. June [30 Days]
+7. July [30 Days]
+8. August [30 Days]
+9. September [30 Days]
+10. October [30 Days]
+11. November [30 Days]
+12. December [30 Days]
+
+1 Month = 30 Days
+1 Week = 6 Days
+1 Day = 25 Hours
+1 Hour = 60 Minutes
+1 Minute = 60 Seconds
+1 Second = 100 Milliseconds
+
+ZENITH WORLD
+
+Daftar Zaman Zenith
+0. Pra-Zaman [Tidak Diketahui]
+1. Zaman Dua Dewa [2.577.528 SM - 2.309.728 SM]
+2. Zaman Kelahiran Dunia Zenith [2.309.728 SM - 1.952.627 SM]
+3. Zaman Neraka yang sangat panas [1.952.627 SM - 511.892 SM]
+4. Zaman Cikal Bakal Kehidupan [511.892 SM - 309.627 SM]
+5. Zaman Kehidupan Awal [309.627 SM - 156.671 SM]
+6. Zaman Mahkluk Berakal Awal [156.671 SM - 9451 SM]
+7. Zaman Para Naga [9451 SM - 4762 SM]
+8. Zaman Para Dewa [4762 SM - 52 SM]
+9. Zaman Dunia Kuno [52 SM - 1509 M]
+10. Zaman Dunia Sains [1509 M - 2263 M]
+11. Zaman Para Monster/Kekacauan Dunia Zenith [2263 M - 2613 M]
+12. Zaman Rekonstruksi Dunia []
+13. Zaman Dunia Baru []
+
+Daftar Kalender Pada Zaman Rekonstruksi Dunia sampai Zaman Dunia Baru
+Untuk menyebut tahun atau periode waktu selama masa sebelum Zaman Rekonstruksi Dunia mereka memakai penanggalan SM {SEBELUM MASEHI}
+Zaman Rekonstruksi Dunia
+1. Kalender Forgia [FA] = {1 FA - 462 FA}
+2. Kalender Novus [NS] = {1 NS - 1992 NS}
+3. Kalender Nazer [NR] = {1 NR - 161 NR}
+4. Kalender Chivel [CL] = {1 CL - 1302 CL}
+5. Kalender Chrostar [CR] = {1 CR - 572 CR}
+6. Kalender Ragram [RM] = {1 RM - 815 RM}
+7. Kalender Vegnir [VR] = {1 VR - 462 VR}
+8. Kalender Menes [MS] = {1 MS - 2102 MS}
+9. Kalender Arnus [AS] = {1 AS - 1718 AS}
+10. Kalender Braze [BE] = {1 BE - 726 BE}
+11. Kalender Geian [GN] = {1 GN - 1617 GN}
+
+Zaman Dunia Baru
+1. Kalender Obsidian [ON] = {1 ON - 782 ON}
+2. Kalender Renewal [RL] = {1 RL - 317 RL}
+3. Kalender Solstara [SA] = {1 SA - 1202 SA}
+4. Kalender Archivum [AM] = {1 AM - 1772 AM}
+5. Kalender Viuma [VA] = {1 VA - 1009 VA}
+6. Kalender Cagnar [CG] = {1 CG - 1605 CG}
+7. Kalender Bustam [BM] = {1 BM - 764 BM}
+8. Kalender Marchi [MI] = {1 MI - current(1874 MI)}
+
+Continent
+1. The continent of Atigonia [Tanah Para Manusia]
+2. The continent of Eurcael [Tanah Para Dwarf]
+3. The continent of Alpinara [Tanah Para Peri]
+4. The continent of Hyperion [Tanah Para Malaikat]
+5. The continent of Xiulthol [Tanah Para Naga]
+6. The continent of Autharki [Tanah Para Monster]
+
+Ocean
+1. Nexaris Ocean
+2. Exeleon Ocean
+3. Avenor Ocean
+4. Thalgard Ocean
+5. Amonus Ocean
+
+Species
+1. Human Species
+2. Fairy Species
+3. Monster Species
+4. Angel Species
+5. Dwarf Species
+6. Dragon Species
+
+Pathway
+1. Error Pathway
+2. Visionary Pathway
+3. Sun Pathway
+4. Tyrant Pathway
+5. Darkness Pathway
+6. Death Pathway
+7. Demoness Pathway
+8. Paragon Pathway
+9. Mother Pathway
+10. Moon Pathway
+11. Abyss Pathway
+12. Destruction Pathway
+13. Masquerade Pathway
+14. Preservation Pathway
+15. Hunt Pathway
+16. Erudition Pathway
+17. Harmony Pathway
+18. Nihility Pathway
+19. Abundance Pathway
+20. Remembrance Pathway
+21. Elation Pathway
+22. Propagation Pathway
+23. Voracity Pathway
+24. Enigmata Pathway
+25. Beauty Pathway
+26. Permanence Pathway
+27. Fortune Pathway
+28. Reader Pathway
+29. Author Pathway
+30. Finality Pathway
+31. Fairytale Pathway
+32. Fiction Pathway
+
+Daftar Benua
+A. Benua Atigonia [31 Negara Manusia]
+1. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+2. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+3. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+4. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+5. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+6. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+7. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+8. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+9. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+10. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+11. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+12. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+13. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+14. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+15. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+16. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+17. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+18. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+19. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+20. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+21. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+22. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+23. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+24. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+25. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+26. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+27. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+28. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+29. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+30. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+31. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+
+B. Benua Eurcael [19 Negara Dwarf]
+1. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+2. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+3. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+4. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+5. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+6. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+7. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+8. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+9. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+10. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+11. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+12. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+13. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+14. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+15. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+16. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+17. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+   
+18. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+    
+19. 
+   Nama Pendek: 
+   Sistem Pemerintahan: 
+   Pemimpin Tertinggi: 
+   Wakil Pemimpin Tertinggi: 
+
+C. Benua Alpinara [7 Negara Peri]
+1. The Grand Luminous Fairy Kingdom
+   Nama Pendek: Luminous Kingdom
+   Sistem Pemerintahan: Radiant Fairy Monarchy
+   Pemimpin Tertinggi: High Fairy Queen
+   Wakil Pemimpin Tertinggi: Crown Fairy Princess
+   
+2. The Eternal Sylvan Fairy Realm
+   Nama Pendek: Sylvan Realm
+   Sistem Pemerintahan: Nature Fairy Monarchy
+   Pemimpin Tertinggi: Sylvan Fairy King
+   Wakil Pemimpin Tertinggi: Grand Forest Regent
+   
+3. The Frostwing Fairy Dominion
+   Nama Pendek: Frostwing Dominion
+   Sistem Pemerintahan: Winter Fairy Dominion
+   Pemimpin Tertinggi: Frost Fairy Empress
+   Wakil Pemimpin Tertinggi: Arch Frost Regent
+   
+4. The Blossom Fairy Confederation
+   Nama Pendek: Blossom Confederation
+   Sistem Pemerintahan: Confederal Fairy Council
+   Pemimpin Tertinggi: Grand Blossom Matriarch
+   Wakil Pemimpin Tertinggi: High Petal Chancellor
+   
+5. The Moonveil Fairy Sovereignty
+   Nama Pendek: Monveil Sovereignty
+   Sistem Pemerintahan: Lunar Fairy Theocracy
+   Pemimpin Tertinggi: Moon Fairy Oracle
+   Wakil Pemimpin Tertinggi: Grand Lunar Priestess
+   
+6. The Dreamweaver Fairy Commonwealth
+   Nama Pendek: Dreamweaver Commonwealth
+   Sistem Pemerintahan: Representative Fairy Commonwealth
+   Pemimpin Tertinggi: Dream Sovereign
+   Wakil Pemimpin Tertinggi: Grand Weaver
+   
+7. The Celestial Fairy Empire
+   Nama Pendek: Celestial Fairy Empire
+   Sistem Pemerintahan: Imperial Celestial Fairy Monarchy
+   Pemimpin Tertinggi: Celestial Fairy Emperor
+   Wakil Pemimpin Tertinggi: Crown Star Heir
+
+D. Benua Hyperion [3 Negara Malaikat]
+1. The Blessed Angelic Dominion
+   Nama Pendek: Blessed Dominion
+   Sistem Pemerintahan: Sacred Angelocratic Theocracy
+   Pemimpin Tertinggi: Grand Seraph Regent
+   Wakil Pemimpin Tertinggi: Archangel Chancellor
+   
+2. The Forsaken Angelic Sovereignty
+   Nama Pendek: Forsaken Sovereignty
+   Sistem Pemerintahan: Council Angelocracy
+   Pemimpin Tertinggi: High Exile Lord
+   Wakil Pemimpin Tertinggi: Grand Keeper of Memories
+   
+3. The Celestial Commonwealth of the Mortal-Born
+   Nama Pendek: Celestial Commonwealth
+   Sistem Pemerintahan: Representative Angelocracy
+   Pemimpin Tertinggi: Celestial High Consul
+   Wakil Pemimpin Tertinggi: Vice Celestial Consul
+
+E. Benua Xiulthol [9 Negara Naga]
+1. The Grand Red Dragon Empire
+   Nama Pendek: Red Dragon Empire
+   Sistem Pemerintahan: Absolute Imperial Dracocracy
+   Pemimpin Tertinggi: Grand Dragon Emperor
+   Wakil Pemimpin Tertinggi: Crown Dragon Prince
+
+2. The Grand Green Dragon Kingdom
+   Nama Pendek: Green Dragon Kingdom
+   Sistem Pemerintahan: Traditional Royal Dracocracy
+   Pemimpin Tertinggi: Grand Dragon King
+   Wakil Pemimpin Tertinggi: Crown Dragon Prince
+   
+3. The Grand Blue Dragon Commonwealth
+   Nama Pendek: Blue Dragon Commonwealth
+   Sistem Pemerintahan: Parliamentary Dracocracy
+   Pemimpin Tertinggi: High Dragon Chancellor
+   Wakil Pemimpin Tertinggi: Grand Sea Regent
+   
+4. The Grand Black Dragon Dominion
+   Nama Pendek: Black Dragon Dominion
+   Sistem Pemerintahan: Absolute Dominion Dracocracy
+   Pemimpin Tertinggi: Grand Dragon Dominus
+   Wakil Pemimpin Tertinggi: Arch-Dominus
+   
+5. The Holy White Dragon Confederation
+   Nama Pendek: White Dragon Confederation
+   Sistem Pemerintahan: Theocratic Dracocracy
+   Pemimpin Tertinggi: Holy Dragon Patriarch
+   Wakil Pemimpin Tertinggi: Grand Sacred Regent
+   
+6. The Grand Southern Dragon Sultanate
+   Nama Pendek: Southern Dragon Sultanate
+   Sistem Pemerintahan: Absolute Sultanate Dracocracy
+   Pemimpin Tertinggi: Grand Dragon Sultan
+   Wakil Pemimpin Tertinggi: Grand Vizier
+   
+7. The Grand Northern Dragon Protectorate
+   Nama Pendek: Northern Dragon Protectorate
+   Sistem Pemerintahan: Protectoral Dracocracy
+   Pemimpin Tertinggi: High Dragon Warden
+   Wakil Pemimpin Tertinggi: Grand Frost Marshal
+   
+8. The Eastern Celestial Dragon Empire
+   Nama Pendek: Eastern Dragon Empire
+   Sistem Pemerintahan: Celestial Imperial Dracocracy
+   Pemimpin Tertinggi: Celestial Dragon Emperor
+   Wakil Pemimpin Tertinggi: Crown Dragon Heir
+   
+9. The Grand Western Dragon Republic
+   Nama Pendek: Western Dragon Republic
+   Sistem Pemerintahan: Republican Dracocracy
+   Pemimpin Tertinggi: Grand Dragon Consul
+   Wakil Pemimpin Tertinggi: Vice Dragon Consul
+
+F. Benua Autharki [1 Negara Monster]
+1. The Grand Autharkian Dominion
+   Nama Pendek: Autharkian
+   Sistem Pemerintahan: Dominion Absolute Monsterokrasi
+   Pemimpin Tertinggi: Dominus Agung
+   Wakil Pemimpin Tertinggi: Arch-Dominus
