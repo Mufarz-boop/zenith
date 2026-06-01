@@ -562,8 +562,9 @@ E. Benua Xiulthol [9 Negara Naga]
    Wakil Pemimpin Tertinggi: Vice Dragon Consul
 
 F. Benua Autharki [1 Negara Monster]
-1. The Grand Autharkian Dominion
-   Nama Pendek: Autharkian
-   Sistem Pemerintahan: Dominion Absolute Monsterokrasi
-   Pemimpin Tertinggi: Dominus Agung
-   Wakil Pemimpin Tertinggi: Arch-Dominus
+1. The Autarkian Sovereign Dominion
+   Nama Pendek: Autarkia
+   Sistem Pemerintahan: Absolute Continental Autocratic Dominion System (A.C.A.D.S.)
+                        Sistem otoritas tunggal berbasis kontrol wilayah otonom yang dikoordinasikan oleh pusat inti di Wilayah Tengah
+   Pemimpin Tertinggi: The Apex Sovereign
+   Wakil Pemimpin Tertinggi: The High Regent
