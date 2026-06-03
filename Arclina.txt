@@ -1,0 +1,40 @@
+1. Sistem Absensi QR Code di Sekolah
+    Soal: Sebuah sekolah ingin mengembangkan sistem absensi menggunakan QR Code. Siswa melakukan scan saat masuk dan pulang.
+    Tugas: 1. Identifikasi aktor dan use case utama
+           2. Jelaskan skenario "Melakukan Absensi Masuk"
+
+2. Sistem Reservasi Ruang Rapat
+    Soal: Perusahaan ingin aplikasi untuk reservasi ruang rapat secara online
+    Tugas: Buat Use Case Diagram (deskripsi) untuk sistem tersebut
+
+3. Sistem E-Commerce untuk Produk UMKM
+    Soal: UMKM ingin sistem belanja online sederhana
+    Tugas: Buat Class Diagram (deskripsi teks)
+
+4. Sistem Pengajuan Cuti Pengawai
+    Soal: Instansi membutuhkan sistem pengajuan cuti secara digital
+    Tugas: Buat Activity Diagram untuk proses pengajuan cuti
+
+5. Sistem Manajemen Tugas Siswa (Task Manager)
+    Soal: Guru ingin platform untuk memberi dan memantau tugas siswa
+    Tugas: Jelaskan Sequence Diagram proses siswa mengumpulkan tugas
+
+6. Aplikasi Layanan Laundry Online
+    Soal: Sebuah laundry ingin membangun aplikasi pickup-delivery
+    Tugas: Identifikasi kebutuhan fungsional dan non-fungsional
+
+7. Sistem Antrian Klinik
+    Soal: Klinik ingin sistem antrian digital yang menampilkan nomor antrean dan estimasi waktu
+    Tugas: Buat ERD (deskripsi text)
+
+8. Sistem Inventaris Sekolah
+    Soal: Sekolah ingin mencatat semua barang inventaris dan statusnya
+    Tugas: Tentukan minimal 3 user story
+
+9. Sistem Pembelajaran Online (LMS)
+    Soal: Sistem LMS harus memiliki fitur video pembelajaran, kuis, dan forum diskusi
+    Tugas: Jelaskan skenario use case "Mengikuti Kuis"
+
+10. Aplikasi Kasir untuk Toko Retail
+    Soal: Sebuah toko ingin aplikasi kasir dengan fitur scan barcode otomatis
+    Tugas: Buat Desain Input-Proses-Output (IPO)
